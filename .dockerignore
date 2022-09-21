@@ -1,2 +1,7 @@
+# Files used by docker (aren't part of the docker cache)
 /.dockerignore
 /Dockerfile
+
+# Files used by WayScript (not docker)
+/.wayscript
+/.triggers
