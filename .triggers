@@ -1,0 +1,1 @@
+[{"type":"deploy","id":"flask-deploy","command":"flask --app app --debug run --host=0.0.0.0","test_event":"","settings":{"port":"5000"}}]
